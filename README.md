@@ -1,5 +1,5 @@
 <h1 align="center">Meenz Bleibt Meenz</h1>
-<p align="center"><em>But Large Language Models Do Not Speak the Dialect of Mainz</em></p>
+<h3 align="center"><em>But Large Language Models Do Not Speak the Dialect of Mainz</em></h3>
 
 
 
