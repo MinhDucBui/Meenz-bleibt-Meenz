@@ -1,4 +1,4 @@
-<h1 align="center">Meenz Bleibt Meenz</h1>
+<h1 align="center">Meenz bleibt Meenz</h1>
 <h3 align="center"><em>But Large Language Models Do Not Speak the Dialect of Mainz</em></h3>
 
 
