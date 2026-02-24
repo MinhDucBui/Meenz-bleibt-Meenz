@@ -5,7 +5,7 @@
 
 This repository contains code, data, and evaluation scripts for our LREC 2026 paper:
 
-[![Paper Link (soon)](https://img.shields.io/badge/Paper-LREC--COLING%202026-blue)](link-to-paper)
+[![Paper Link](https://img.shields.io/badge/Paper-LREC--COLING%202026-blue)](https://www.arxiv.org/abs/2602.16852)
 
 
 
@@ -31,7 +31,7 @@ The **Mainz Dialect Dataset** is derived from Karl Schramm's 1966 "Mainzer Wört
 
 The dataset is distributed under **CC BY-NC-ND 4.0**.
 
-**To request access:** [Instructions will be provided soon]
+**To request access:** Please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc0nZ3vIfduh3RC6JCxQ2I7vsU-rC5SZcglDsYwHokJxLRlpg/viewform?usp=dialog)
 
 ---
 
@@ -178,5 +178,15 @@ python src/inference.py \
 
 If you use this dataset or code, please cite:
 
-Soon
+```text
+@misc{bui2026meenzbleibtmeenzlarge,
+      title={Meenz bleibt Meenz, but Large Language Models Do Not Speak Its Dialect}, 
+      author={Minh Duc Bui and Manuel Mager and Peter Herbert Kann and Katharina von der Wense},
+      year={2026},
+      eprint={2602.16852},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.16852}, 
+}
+```
 
